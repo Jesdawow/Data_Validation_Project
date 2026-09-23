@@ -115,9 +115,15 @@ Pandas DataFrame
    ↓
 Pandera schema
    ↓
+schema.py
+   ↓
 validator.py
    ↓
 Valid data / Error report
+   ↓
+Terminal output
+   ↓
+logs/validation.log
 ```
 
 Om datan är korrekt går den igenom valideringen och programmet visar antal rader och kolumner. Om datan är felaktig samlas problemen i en felrapport som skrivs ut i terminalen.
