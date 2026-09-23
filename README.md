@@ -28,8 +28,8 @@ The project also includes automated tests using pytest.
 ├── data/
 │   ├── valid_customers.csv
 │   └── invalid_customers.csv
-├── logs/
-│   └── validation.log
+├── logs/ # Generated upon running main.py
+│   └── validation.log # Generated upon running main.py
 ├── report/
 │   ├── images/
 │   │   ├── invalid_output.png
