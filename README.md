@@ -54,7 +54,7 @@ The project also includes automated tests using pytest.
 Python 3.13.7 was used for this project.
 
 ```powershell
-clone the repository and open the project folder.
+git clone https://github.com/Jesdawow/Data_Validation_Project.git
 cd data_validation_project
 python -m venv .venv
 .venv\Scripts\activate
